@@ -4,3 +4,6 @@ var gender = "female"
 var age = 22
 var familySize = 6
 var friends = 3
+var hungry = true
+var hasSanity = false
+var havingFun = true
